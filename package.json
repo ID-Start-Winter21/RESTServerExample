@@ -1,0 +1,25 @@
+{
+  "name": "restserverexample",
+  "version": "1.0.0",
+  "description": "Minimalistic REST server using NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ID-Start-Winter21/RESTServerExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ID-Start-Winter21/RESTServerExample/issues"
+  },
+  "homepage": "https://github.com/ID-Start-Winter21/RESTServerExample#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
